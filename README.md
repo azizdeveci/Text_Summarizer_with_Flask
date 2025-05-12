@@ -39,4 +39,9 @@ Bu uygulama, uzun metinleri otomatik olarak özetleyen bir web uygulamasıdır. 
 
 - İlk çalıştırmada model indirilecektir, bu biraz zaman alabilir
 - Çok uzun metinler için işlem süresi artabilir
-- En iyi sonuçlar için İngilizce metinler önerilir 
+- En iyi sonuçlar için İngilizce metinler önerilir
+
+
+  ## Görsel
+
+  
